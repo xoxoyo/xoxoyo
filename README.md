@@ -12,10 +12,9 @@
 
 
 <table>
-
-<img style="width: 300px" src="https://github-readme-stats.vercel.app/api?username=xoxoyo&show_icons=true&theme=dark" />
-
-<img style="width: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxoyo&hide_progress=true&theme=dark" />
+<tr><img style="width: 300px" src="https://github-readme-stats.vercel.app/api?username=xoxoyo&show_icons=true&theme=dark" />
+</tr>
+<tr><img style="width: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxoyo&hide_progress=true&theme=dark" /></tr>
 <table>
 
 
